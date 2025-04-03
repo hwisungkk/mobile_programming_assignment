@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">eweek04a</string>
+    <string name="todolist_title">To-do List</string>
+    <string name="my_number">202111279 김휘성</string> //학번 추가
+</resources>
