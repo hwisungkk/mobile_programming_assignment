@@ -24,7 +24,7 @@ fun ButtonWithEmoji(
     onClickDisLikes: () -> Unit
 ) {
     Row(
-        modifier = Modifier.fillMaxWidth(),
+        //modifier = Modifier.fillMaxWidth(),
         horizontalArrangement = Arrangement.SpaceEvenly,
         verticalAlignment = Alignment.CenterVertically
     ) {

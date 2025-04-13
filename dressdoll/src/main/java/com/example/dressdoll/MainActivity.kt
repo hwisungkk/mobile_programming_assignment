@@ -1,4 +1,4 @@
-package com.example.eweek05a
+package com.example.dressdoll
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,8 +11,8 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.eweek05a.ui.theme.MyLecETheme
-import com.example.eweek05a.uicomponents.MainScreen
+import com.example.dressdoll.ui.theme.MyLecETheme
+import com.example.dressdoll.uicomponents.MainScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
